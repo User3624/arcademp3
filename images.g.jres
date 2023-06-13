@@ -24,6 +24,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cursor-i-guess"
     },
+    "image6": {
+        "data": "hwQRABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALu7u7sLAAAAAAAAsLuqqrq7AAAAAAAAsKvKzKq7AAAAAAAAsKrMzKy6AAAAAAAAsMqsqsy6AAAAAAAAsMqsq8y6AAAAAAAAsMqsqsy6AAAAAAAAsKrMzKy6AAAAAAAAsKvKzKq7AAAAAAAAsLuqqrq7AAAAAAAAALu7u7sLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SettingsICO"
+    },
+    "image7": {
+        "data": "hwQRABEAAAAAAAAAAAAAAAAAAAAA////////DwAAAAAAHx+ZmXcfDwAAAAAA/x+ZmXf/DwAAAAAAHx+ZmXcfDwAAAAAA/5+ZmXf/DwAAAAAAHx+ZeXcfDwAAAAAA/x+ZeXf/DwAAAAAAHx+ZeXcfDwAAAAAA/5+ZeXf/DwAAAAAAH5+ZeXcfDwAAAAAA/3+XeXf/DwAAAAAAH3/nfncfDwAAAAAA/3+XeXf/DwAAAAAAH5+ZeXcfDwAAAAAA////////DwAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "VideoICO"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

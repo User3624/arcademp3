@@ -187,6 +187,46 @@ f f f f f . . .
 . . . . . f f . . . . . f f f . 
 . . . . . f . . . . . . . f . . 
 `;
+            case "image6":
+            case "SettingsICO":return img`
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . b b b b b b b b b . . . . 
+. . . b b b a a a a a b b b . . . 
+. . . b b a a c c c a a b b . . . 
+. . . b a a c c c c c a a b . . . 
+. . . b a c c a a a c c a b . . . 
+. . . b a c c a b a c c a b . . . 
+. . . b a c c a a a c c a b . . . 
+. . . b a a c c c c c a a b . . . 
+. . . b b a a c c c a a b b . . . 
+. . . b b b a a a a a b b b . . . 
+. . . . b b b b b b b b b . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+`;
+            case "image7":
+            case "VideoICO":return img`
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+. f f f f f f f f f f f f f f f . 
+. f 1 f 1 f 1 f 1 f 1 f 1 f 1 f . 
+. f f f f f f f f f f f f f f f . 
+. f 1 1 1 9 1 1 1 9 9 7 7 7 9 f . 
+. f 9 9 9 9 9 9 9 9 9 7 7 7 9 f . 
+. f 9 9 9 9 9 9 9 9 9 9 e 9 9 f . 
+. f 9 9 9 9 9 9 9 9 9 9 e 9 9 f . 
+. f 9 9 9 9 7 7 7 7 7 7 7 7 7 f . 
+. f 7 7 7 7 7 7 7 7 7 7 7 7 7 f . 
+. f 7 7 7 7 7 7 7 7 7 7 7 7 7 f . 
+. f f f f f f f f f f f f f f f . 
+. f 1 f 1 f 1 f 1 f 1 f 1 f 1 f . 
+. f f f f f f f f f f f f f f f . 
+. . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })
