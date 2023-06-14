@@ -168,25 +168,6 @@ f f f f f . . .
 . . . . f . f . 
 . . . . . . . f 
 `;
-            case "image3":
-            case "cursor-i-guess":return img`
-. . . . . . . . . . . . . . . . 
-. f f f f . . . . . . . . . . . 
-. f f f f f f f . . . . . . . . 
-. f f f f f f f f f . . . . . . 
-. . f f f f f f f f f f . . . . 
-. . f f f f f f f f f f f f f . 
-. . f f f f f f f f f f f f f f 
-. . f f f f f f f f f f f f f f 
-. . . f f f f f f f f f f f . . 
-. . . f f f f f f f f f f . . . 
-. . . . f f f f f f f f f . . . 
-. . . . f f f f f f f f f f . . 
-. . . . f f f f f f f f f f f . 
-. . . . . f f f f . . f f f f f 
-. . . . . f f . . . . . f f f . 
-. . . . . f . . . . . . . f . . 
-`;
             case "image6":
             case "SettingsICO":return img`
 . . . . . . . . . . . . . . . . . 
@@ -286,6 +267,25 @@ f f f f f
 1f11f1f11111111f1f111111f1111111
 1f11f11ffff1ffff11fffff1ff111111
 11111111111111111111111111111111
+`;
+            case "image3":
+            case "cursor-i-guess":return img`
+. . . . . . . . . . . . . . . . 
+. f f f f . . . . . . . . . . . 
+. f f f f f f f . . . . . . . . 
+. f f f f f f f f f . . . . . . 
+. . f f f f f f f f f f . . . . 
+. . f f f f f f f f f f f f f . 
+. . f f f f f f f f f f f f f f 
+. . f f f f f f f f f f f f f f 
+. . . f f f f f f f f f f f . . 
+. . . f f f f f f f f f f . . . 
+. . . . f f f f f f f f f . . . 
+. . . . f f f f f f f f f f . . 
+. . . . f f f f f f f f f f f . 
+. . . . . f f f f . . f f f f f 
+. . . . . f f . . . . . f f f . 
+. . . . . f . . . . . . . f . . 
 `;
         }
         return null;

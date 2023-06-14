@@ -40,8 +40,9 @@ VideoICO = sprites.create(assets.image`VideoICO`, SpriteKind.Desktop)
 VideoICO.setPosition(45, 9)
 Power = sprites.create(assets.image`power`, SpriteKind.Desktop)
 Power.setPosition(63, 9)
-cursor = sprites.create(assets.image`crosshair`, SpriteKind.Player)
+cursor = sprites.create(assets.image`cursor-i-guess`, SpriteKind.Player)
 controller.moveSprite(cursor)
+scaling.scaleToPercent(cursor, 50, ScaleDirection.Uniformly, ScaleAnchor.Middle)
 cursor.setStayInScreen(true)
 game.onUpdateInterval(500, function () {
     if (cursor.overlapsWith(MusicICO)) {
