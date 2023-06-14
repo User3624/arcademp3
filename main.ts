@@ -14,7 +14,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
     if (cursor.overlapsWith(Power)) {
         RestartOption = sprites.create(assets.image`ResetOption`, SpriteKind.Desktop)
         sprites.destroy(cursor)
-        cursor = sprites.create(assets.image`crosshair`, SpriteKind.Player)
+        cursor = sprites.create(assets.image`cursor-i-guess`, SpriteKind.Player)
         controller.moveSprite(cursor)
         RestartOption.setPosition(63, 18)
     }
