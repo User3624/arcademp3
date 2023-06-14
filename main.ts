@@ -26,6 +26,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
         sprites.destroy(Power)
         sprites.destroy(VideoICO)
         sprites.destroy(RestartOption)
+        scene.setBackgroundImage(assets.image`rebootbg`)
         music.play(music.melodyPlayable(music.powerDown), music.PlaybackMode.UntilDone)
         game.reset()
     }

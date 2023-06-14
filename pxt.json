@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "sprite-scaling": "*"
+        "sprite-scaling": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
