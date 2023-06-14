@@ -16,9 +16,16 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
         sprites.destroy(cursor)
         cursor = sprites.create(assets.image`cursor-i-guess`, SpriteKind.Player)
         controller.moveSprite(cursor)
+        scaling.scaleToPercent(cursor, 50, ScaleDirection.Uniformly, ScaleAnchor.Middle)
         RestartOption.setPosition(63, 18)
     }
     if (cursor.overlapsWith(RestartOption)) {
+        sprites.destroy(cursor)
+        sprites.destroy(MusicICO)
+        sprites.destroy(SettingsICO)
+        sprites.destroy(Power)
+        sprites.destroy(VideoICO)
+        sprites.destroy(RestartOption)
         music.play(music.melodyPlayable(music.powerDown), music.PlaybackMode.UntilDone)
         game.reset()
     }
