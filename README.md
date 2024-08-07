@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://user3824.github.io/arcademp3/](https://user3824.github.io/arcademp3/)
+> Open this page at [https://user3624.github.io/arcademp3/](https://user3824.github.io/arcademp3/)
 
 ## How to Install
 * Go to [https://arcade.makecode.com/](https://arcade.makecode.com/)
@@ -13,20 +13,20 @@
 * If you want to, click on Pair now. (this will allow you to flash directly to your hardware)
 * Using your computer's file explorer, drag and drop the downloaded file into your device.
 
-## Edit this project ![Build status badge](https://github.com/user3824/arcademp3/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/user3624/arcademp3/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/user3824/arcademp3** and click import
+* paste **https://github.com/user3624/arcademp3** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/user3824/arcademp3/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/user3624/arcademp3/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
