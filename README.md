@@ -7,7 +7,7 @@
 * Go to [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * Click on New Project
 * Click on Extensions
-* Search https://github.com/user3824/arcademp3 and import it.
+* Search https://github.com/user3624/arcademp3 and import it.
 * Insert your MakeCode Arcade compatible device to your computer using USB.
 * Click Download and then select your hardware.
 * If you want to, click on Pair now. (this will allow you to flash directly to your hardware)
